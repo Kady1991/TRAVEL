@@ -1,0 +1,333 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn-reservation {
+    background-color: #ff6600;
+    border: 2px solidrgb(252, 71, 5);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 550;
+    color: white;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    
+    
+}
+
+
+.btn-reservation:hover {
+    background-color:white;
+    color: #ff6600;
+    transition: 0.5s ease;
+ 
+}
+
+/* Home acceuil CSS */
+
+.homme1{
+    background-image: url(../../image/imgActivite/SPORT9.jpg); 
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    object-fit: cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+} 
+.homme2{
+    background-image: url(../../image/RESTOTOO.png) ;
+    
+    background-position: center ;
+    background-size: cover;
+    background-repeat:no-repeat;
+    object-fit: cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+}
+  .homme3{
+    background-image: url(../../image/logement.webp); 
+    /* background-position: center ; */
+    background-size: cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+} 
+#home .imgd{
+    z-index: -10;
+    width: 100%;
+    height: 100%;
+ 
+}
+
+#home h2 {
+    font-size: 45px;
+    margin-bottom: 10px;
+     color: #f9edf0;
+    text-transform: lowercase;
+}
+#home h4 {
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+.home-btn {
+    margin-bottom: 20px;
+}
+
+.find_trip {
+    /* background-color: rgba(242, 240, 240, 0.621); */
+    padding: 5px;
+    width: 50%;
+    height: 180px;
+    position: absolute;
+    bottom: -70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+} 
+.find_trip  .card{
+    width: 32%;
+    height: 100%;  
+    border-radius: 10px;
+}
+.find_trip  .card  img{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.find_trip  .card :hover{
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    transition: all 0.5s;
+}
+.debut{
+    margin-top: 120px;
+    width: 100%;
+    height: 50px;
+    text-align: center;  
+}
+.debut h1{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 600;
+    text-shadow: 0px 1px 1px black;
+}
+.debut p{
+    text-align: center;
+  
+}
+.glob{
+    background-color: rgb(244, 243, 242);
+    margin-top: 50px;
+    width: 84%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    padding-left :20px;  
+    padding-right :20px; 
+    column-gap: 25px;
+}
+.glob .imgacct{
+    width: 36%;
+    height: 30%;
+}
+.glob .imgacct img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    
+}
+
+.glob .txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 30px ;
+    width: 42%;
+    height: 30%;
+}
+
+
+    .containe {
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px 6%;
+    background-color: #fcfafa;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    }
+    
+    .header-title h1 {
+    color: rgb(252, 71, 5);
+    font-size: 30px;
+    cursor: pointer;
+    }
+    
+    .header-title .divider {
+    background-color: #450611;
+    width: 100px;
+    height: 4px;
+    border: none;
+    margin: 5px auto 0;
+    transition: all 0.5s;
+  }
+  
+  .header-title:hover .divider {
+    width: 180px;
+  }
+  
+  .gallery {
+    width: 100%;
+    height: 90vh;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .gallery .image {
+   width: 30%;
+   height: 45%;
+    padding: 4px;
+    border-radius: 10px;
+  }
+  
+  .gallery .image:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+  }
+  
+  .gallery  .image  img {
+   width: 100%;
+    height: 100%;   
+    object-fit: cover;
+    transition: all 0.5s;
+    border-radius: 10px;
+  }
+  
+
+  #acct2{
+    display: none;
+}
+#acct3{
+    display: none;
+}
+  @media (max-width: 1000px) {
+    .gallery .image {
+      flex-basis: 50%;
+    }
+  
+    .header-title h1 {
+      font-size: 28px;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .header-title h1 {
+      font-size: 24px;
+    }
+    .gallery .image {
+      flex-basis: 100%;
+    }
+  }
+
+
+/*Responsive*/
+@media (max-width:750px) {
+    header .menu {
+        display: none;
+    }
+    .btn-reservation {
+        display: none;
+    }
+    /*Home responsive*/
+    #home h2 {
+        font-size: 18px;
+        -webkit-text-stroke: 0;
+        color: #fff;
+    }
+    #home h4 {
+        font-size: 28px;
+    }
+    #home p {
+        text-align: center;
+        font-size: 10px;
+    }
+    .find_trip {
+        width: 100%;
+        height: 200px;
+    }
+    .find_trip form {
+        flex-wrap: wrap;
+    }
+    .find_trip form div {
+        margin-top: 10px;
+        flex-direction: column;
+        width: 47%;
+    }
+    .find_trip form input[type="submit"]{
+        width: 47%;
+    }
+    .home-btn {
+        display:block;
+    }
+    /*Responsive A propos*/
+    .img-desc {
+        flex-direction: column;
+        width: 100%;
+    }
+    .img-desc .left , .img-desc .right {
+        width: 100%;
+    }
+    .img-desc .left video {
+        width: 100%;
+    }
+    .img-desc .left::after {
+        background-color: transparent;
+    }
+    .img-desc .left {
+        margin-bottom: 20px;
+    }
+}
+
+ 
+ 
+
+ 

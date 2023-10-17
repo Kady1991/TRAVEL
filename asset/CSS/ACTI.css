@@ -1,0 +1,187 @@
+ @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+ /*--  debut  de cssLA section de gallery  */
+/*activite CSS*/
+
+
+#popular-activite .content {
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+#popular-activite .content .box {
+    overflow: hidden;
+    position: relative;
+    width: 30%;
+    height: 30%;
+    transition: 0.5s;
+    border-radius: 0.5rem;
+
+}
+#popular-activite .content .box img {
+    height: 100%;
+    width: 100%;
+    object-fit:cover;  
+}
+.box .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    align-items: center;
+    transform: translateX(100%);
+    transition: 0.5s;
+}
+.box .content  h4 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.box .content p {
+    padding: 2px;
+    font-size: 12px;
+}
+.box .content p:nth-child(3){
+    margin-bottom: 25px;
+}
+.box .content a {
+    margin-top: 60px;
+    padding: 10px 60px;
+    border: 2px solid#f67e05;
+    color: #f67e05;
+    font-weight: bold;
+}
+.box:hover {
+    /* box-shadow: 0 0 10px#f67e05; */
+}
+.box:hover .content {
+    transform: translateX(0);
+}
+
+
+
+/*Responsive*/
+@media (max-width:750px) {
+    header .menu {
+        display: none;
+    }
+    .btn-reservation {
+        display: none;
+    }
+    /*Home responsive*/
+    #home h2 {
+        font-size: 18px;
+        -webkit-text-stroke: 0;
+        color: #fff;
+    }
+    #home h4 {
+        font-size: 28px;
+    }
+    #home p {
+        text-align: center;
+        font-size: 10px;
+    }
+
+    }
+    .find_trip form input[type="submit"]{
+        width: 47%;
+    }
+    .home-btn {
+        display:block;
+    }
+
+    /*Responsive menu*/
+    .responsive-menu {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        cursor: pointer;
+    }
+    .responsive-menu::after {
+        position: absolute;
+        content: "";
+        height: 3px;
+        background-color: #f67e05;
+        width: 28px;
+        box-shadow: 0 10px 0 #f67e05;
+        transform: translateY(-10px);
+        transition: 0.5s;
+    }
+    .responsive-menu.active::after {
+        box-shadow: 0 0 0 #f67e05; 
+        transform: rotate(45deg);
+    }
+    .responsive-menu::before {
+        position: absolute;
+        content: "";
+        height: 3px;
+        background-color:  #f67e05;
+        width: 28px;
+        transform: translateY(10px);
+        transition: 0.5s;
+    }
+    .responsive-menu.active::before {
+        transform: rotate(-45deg);
+    }
+    header .menu.responsive {
+        display: flex;
+        position: absolute;
+        top: 50px;
+        right: 0;
+        flex-direction: column;
+        background-color: #222;
+        align-items: unset;
+        animation: animate-menu 1s forwards;
+    }
+    header .menu.responsive li {
+        margin: 20px;
+        width: 100px;
+        padding-left: 20px;
+    }
+
+    @keyframes animate-menu {
+        0% {
+            transform: translateY(0);
+        }
+        100% {
+            transform: translateY(100%);
+        }
+    }
+/*   fin de css LA section de gallery  */
+
+    .contain{
+      width: 100%;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 50px  8%;
+      background-color: #fcfcfc;
+    }
+    .gallery{
+        display: grid;
+        grid-template-columns: repeat( auto-fit, minmax(350px,2fr));
+        gap: 30px;
+    }
+    .gallery  img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+
+    }

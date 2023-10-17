@@ -1,0 +1,166 @@
+.carousel {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  overflow: hidden;
+} 
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  transition: opacity 1s;
+}
+
+
+.slide h2 {
+position: absolute;
+top: 65%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: #f78b07;
+font-size: 6rem;
+font-weight: bolder;
+text-align: center;
+z-index: 1;
+
+
+}
+
+
+.slide-content {
+  color: #fffcfc;
+  text-align: center;
+ 
+
+}
+
+
+.slide img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1; 
+}
+
+/* animation texte destination */
+
+.anime {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 100%;
+  }
+
+  75% {
+    font-size: 100%;
+    margin-left: 10%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+.slogan {
+
+text-transform: uppercase;
+letter-spacing: 2px;
+background: linear-gradient(rgb(255, 123, 0),rgb(240, 209, 6)) black;
+background-color: rgb(250, 250, 250);
+background-repeat: no-repeat;
+background-size: 80%;
+animation: animate 9s infinite;
+-webkit-background-clip: text;
+-webkit-text-fill-color: rgba(255, 255, 255, 0);
+margin: 2px 2px;
+margin-top: 0.5rem;  
+
+}
+
+
+@keyframes animate {
+0% {
+  background-position: -500%;
+}
+50% {
+  background-position: 500%;
+}
+}
+
+
+@media (max-width:768px) {
+.slide h2 {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: #e9770b;
+font-size: 3rem;
+font-weight: bolder;
+text-align: center;
+z-index: 1;
+}
+}
+
+
+/* 
+MALDIVES STICKY */
+.fixed-text {
+position: fixed;
+top: 60%;
+left: 0.5%;
+transform: translate(-50%, -50%);
+background-color: black; 
+writing-mode: horizontal-tb;
+text-orientation: sideways;
+font-size: 1.1rem;
+font-weight: bold;
+color: white;
+text-align: center;
+justify-content: center;
+width: 3rem;
+text-transform: uppercase;
+
+} 
+
+
+.fixed-text span {
+display: block;
+letter-spacing: -2rem;
+
+}  
+
+
+/* 
+SCROLL maldives */
+
+.scrollabless {
+height: 320px; /* Hauteur de la section */
+overflow-y: scroll; /* Activation du défilement vertical */
+scroll-margin: 1px;
+}
+
+/* scroollabar zanzibar */
+
+.scrollables {
+  height: 320px; /* Hauteur de la section */
+  overflow-y: scroll; /* Activation du défilement vertical */
+  scroll-margin: 1px;
+  }
+  

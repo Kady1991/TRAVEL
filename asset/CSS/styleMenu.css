@@ -1,0 +1,59 @@
+
+/* Navbar Start */
+#navbar{
+    background: black;
+}
+#logo{
+    margin-right:10rem ;
+    
+}
+
+.navbar-nav{
+    margin-left: 20px;
+}
+.nav-item .nav-link{
+    font-size: 16px;
+    font-weight: 550;
+    color: white;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    transition: 0.5s ease;
+}
+
+/* animation lien menu */
+.nav-item .nav-link::after{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 2%;
+    height: 3px;
+    margin: auto;
+    background-color:#ff6600 ;
+    transform: scale(0);
+    transition: transform 0.2s ease-in-out;
+}
+
+.nav-item .nav-link:hover::after{
+    transform: scale(1);
+}
+
+.nav-item .nav-link:hover{
+    color: #ff6600;
+    
+}
+#navbar form button{
+    background: #ff6600;
+    color: white;
+    border: none;
+}
+
+.nav-item .nav-link{
+    margin: 10px;
+}
+
+.nav-item{
+    color: white;
+}
+
+/* Navbar End */
+
