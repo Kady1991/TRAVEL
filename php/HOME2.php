@@ -253,7 +253,7 @@
                                         <i class="fa-solid fa-star "></i>
                                     </div>
                                     <h6>Prix: <strong>€5000</strong></h6>
-                                    <a href="Zansibar.php">Découvrez ce voyage</a>
+                                    <a href="ZANZIBAR.php">Découvrez ce voyage</a>
                                 </div>
                             </div>
                         </div>
