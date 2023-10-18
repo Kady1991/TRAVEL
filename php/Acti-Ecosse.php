@@ -95,7 +95,7 @@
                         <h4>Un voyage milles rencontres</h4>
                         <a href="Reservation.php" class="btn-reservation home-btn">Réserver Maintenant</a>
                         <div class="find_trip">
-                            <div class="card "  id="card1"><img    id="img1" src="../image/corde.jpg"></div>
+                            <div class="card "  id="card1"><img    id="img1" src="../image/jeu1.jpg"></div>
                             <div class="card"  id="card2"><img   id="img2"  src="../image/ecoFOOD.jpg"></div>
                             <div class="card" id="card3"><img    id="img3"  src="../image/eberg3.jpg"></div>
                         </div >
@@ -161,7 +161,7 @@
         <!-- Gallery Starts -->
         <div class="gallery">
             <div class="image">
-                <img src="../image/ecoCHA.jpg" alt="image-1">
+                <img src="../image/jeuEco.jpg" alt="image-1">
                 </a>
             </div>
             <div class="image">

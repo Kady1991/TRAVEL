@@ -32,8 +32,8 @@
 /* Home acceuil CSS */
 
 .homme1{
-    background-image: url(../../image/corde.jpg); 
-    /* background-position: center; */
+    background-image: url(../../image/jeu1.jpg); 
+    background-position: center ;
     background-size: cover;
     background-repeat:no-repeat;
     object-fit: cover;
