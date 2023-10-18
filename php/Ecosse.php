@@ -360,7 +360,7 @@
                         <div class="content">
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/edenbourg.jpg" alt="">
+                                <img src="../image/URKAR.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
@@ -377,18 +377,18 @@
 
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/ster2.webp" alt="" width="500PX">
+                                <img src="../image/jamy2.jpg" alt="" width="500PX">
                                 <div class="content">
                                     <div>
 
                                         <div class="iles">
-                                            <h3>L<span>e château de Stirling </span></h3>
+                                            <h3>J<span>ames FRASER </span></h3>
                                         </div>
                                         <!-- 
                                         <h4>détente et relaxation</h4> -->
                                         <p>
-                                            Situé sur une colline escarpée, le château de Stirling est un site historique emblématique d'Écosse. Il a joué un rôle crucial dans les guerres d'indépendance du pays. 
-                                            Les visiteurs peuvent explorer ses remparts, ses salles royales et profiter d'une vue panoramique</p>
+                                            James Alexander Malcolm MacKenzie Fraser est un soldat et propriétaire foncier écossais. Il est bien éduqué et a le don d’apprendre les langues. Élevé pour devenir le futur Laird de Lallybroch, 
+                                            il est un leader naturel, de la ferme au champ de bataille.</p>
                                     </div>
                                 </div>
                             </div>
@@ -445,7 +445,7 @@
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/URKAR.jpg" alt="">
+                                <img src="../image/outlander2.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">

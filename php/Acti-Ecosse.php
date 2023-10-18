@@ -284,7 +284,7 @@
         <img src="../image/HI.jpg" alt="acct1">
     </div>
     <div class="txt">
-        <h2>" Auberges (Hostels) " </h2>
+        <h2>" Auberges " </h2>
 
         <p> Les auberges écossaises offrent un hébergement économique et convivial, idéal pour les voyageurs à petit budget. 
             Vous pouvez choisir entre des dortoirs partagés ou des chambres privées   
@@ -303,13 +303,13 @@
     </div>
 
     <div class="imgacct">
-        <img src="../image/chambre2.jpg" alt="acct1">
+        <img src="../image/chalet.jpg" alt="acct1">
     </div>
     <div class="txt">
-        <h2>" Suite sur Pilotis " </h2>
+        <h2>" La Suite Écossaise des Highlands " </h2>
 
-        <p> Notre "Suite sur Pilotis, Océan à Perte de Vue" est un joyau d'élégance et de confort, perché au-dessus des eaux cristallines des Maldives.
-            La chambre offre une atmosphère sereine, baignée de lumière naturelle qui danse à travers les fenêtres donnant sur l'océan infini.
+        <p> Pour une expérience plus immersive, optez pour un logement traditionnel écossais, comme un cottage, un chalet ou même un château. Ces hébergements 
+            sont souvent situés dans des cadres ruraux pittoresques, offrant une atmosphère isolée et romantique
         </p>
 
     </div>
@@ -324,19 +324,19 @@
     <!-- Gallery Starts -->
     <div class="gallery">
         <div class="image">
-            <img src="../image/imgActivite/bienetre10.jpg" alt="image-1">
+            <img src="../image/chalet2.jpg" alt="image-1">
             </a>
         </div>
         <div class="image">
-            <img src="../image/bain.jpg" alt="image-2">
+            <img src="../image/chalet3.jpg" alt="image-2">
         
         </div>
         <div class="image">
-                <img src="../image/imgActivite/maldi1.jpg" alt="image-3">
+                <img src="../image/chalet4.jpg" alt="image-3">
         
         </div>
         <div class="image">
-                <img src="../image/cham.jpg" alt="image-4">
+                <img src="../image/chalet5.jpg" alt="image-4">
             
         </div>
         <div class="image">
