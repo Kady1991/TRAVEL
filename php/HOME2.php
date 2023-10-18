@@ -153,7 +153,7 @@
                 <div class="container">
 
                     <div class="main-text">
-                        <h1 ><span></span><img src="../image/logo.png" width="150px" style="background-color: black;" alt=""> en quelques mots</h1>
+                        <h1 ><img src="../image/logonoir.png" width="200px" style="margin-bottom: 4.5rem;" alt=""> en quelques mots</h1>
                     </div>
 
                     <div class="row">
