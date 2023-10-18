@@ -32,8 +32,8 @@
 /* Home acceuil CSS */
 
 .homme1{
-    background-image: url(../../image/imgActivite/SPORT9.jpg); 
-    background-position: center;
+    background-image: url(../../image/corde.jpg); 
+    /* background-position: center; */
     background-size: cover;
     background-repeat:no-repeat;
     object-fit: cover;
@@ -46,7 +46,7 @@
     cursor: pointer;
 } 
 .homme2{
-    background-image: url(../../image/RESTOTOO.png) ;
+    background-image: url(../../image/ecoFOOD.jpg) ;
     
     background-position: center ;
     background-size: cover;
@@ -61,8 +61,8 @@
     cursor: pointer;
 }
   .homme3{
-    background-image: url(../../image/logement.webp); 
-    /* background-position: center ; */
+    background-image: url(../../image/eberg3.jpg); 
+    background-position: center ;
     background-size: cover;
     height: 60vh;
     display: flex;

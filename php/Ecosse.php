@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="../asset/CSS/lightbox.css">
         <script src="../asset/JS/lightbox.js" defer></script>
         <script src="../asset/JS/main.js" defer></script>
-        >
+        
 
         <!-- Bootstrap Link -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
@@ -118,7 +118,7 @@
         <section class="book" id="book">
             <div class="container">
                 <div class="main-text">
-                    <h1><span>P</span>rogramme du séjour aux Maldives</h1>
+                    <h1><span>P</span>rogramme du séjour en  Ecosse</h1>
                 </div>
 
                 <div class="row ">
@@ -126,25 +126,25 @@
                         <div class="card">
                             
                             <video autoplay muted loop>
-                                <source src="../image/desti/Sun Siyam Iru Veli (1) MALDIVES.mp4 " type="video/mp4" />
+                                <source src="../video/ecosse.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
 
 
                     <div class="col-md-6 py-3 py-md-0">
-                        <div class="scrollable">
+                        <div class="scrollab">
                             <strong>Jour 1 :</strong>
                             <p class="anime">
 
 
-                                Arrivée aux Maldives et transfert à votre hôtel. Votre voyage
+                                Arrivée en Ecosses et transfert à votre hôtel. Votre voyage
                                 comprendra un séjour dans des hôtels confortables
                                 situés dans des quartiers stratégiques de la ville, ce qui
                                 facilite l'accès aux sites touristiques emblématiques.
                                 Profitez de la plage et des eaux cristallines.
                                 Détendez-vous et profitez des installations de l'hôtel.
-                                Dîner dans un restaurant local pour goûter à la délicieuse cuisine maldivienne.
+                                
 
                             </p>
 
@@ -152,32 +152,26 @@
                             <p class="anime">
 
 
-                                Excursion en bateau pour découvrir les magnifiques récifs coralliens.
+                                Excursion pour découvrir les magnifiques récifs coralliens.
                                 Plongée en apnée pour explorer la vie marine colorée.
-                                Déjeuner sur une île déserte.
                                 Profitez d'une séance de spa pour vous détendre en fin de journée.
                                 Ce voyage organisé vous permettra de déguster des plats locaux
-                                authentiques avec des menus soigneusement sélectionnés.
+                                authentiques.
                             </p>
 
                             <strong> Jour 3:</strong>
                             <p class="anime">
-
-                                Excursion en bateau pour observer les dauphins dans leur habitat naturel.
-                                Visite d'un village local pour découvrir la culture maldivienne.
-                                Déjeuner dans un restaurant traditionnel maldivien.
+                                
+                                Decouverte de la ville et déjeuner dans un restaurant traditionnel.
                                 Temps libre pour se détendre sur la plage ou faire du shopping.
                                 Outre les visites incontournables, votre itinéraire peut également
                                 inclure des activités culturelles telles que des spectacles de
-                                cabaret, des croisières, ou des excursions.
+                                cabaret.
                             </p>
 
                             <strong> Jour 4:</strong>
                             <p class="anime">
 
-
-                                Excursion en bateau pour faire de la pêche au gros.
-                                Déjeuner à bord avec des fruits de mer frais.
                                 Après-midi libre pour se détendre à l'hôtel ou explorer les environs.
                                 Dîner sur la plage pour une expérience inoubliable.Pendant votre séjour, vous
                                 bénéficierez d'une assistance 24/h sur
@@ -186,15 +180,13 @@
 
                             <strong> Jour 5:</strong>
                             <p class="anime">
-
-
-                                Excursion en bateau pour visiter une île voisine.
-                                Découverte de la vie locale et des traditions maldiviennes.
-                                Déjeuner dans un restaurant typique de l'île.
-                                Temps libre pour profiter de la plage avant le départ.
+                                
+                                Découverte de la vie locale et des traditions Ecossais.
+                                Déjeuner dans un restaurant aux traditions locale.
+                                
                             </p>
-                            <a href="reservation.php"><button id="about-btn">Reservez ici</button></a>
                         </div>
+                        <a href="reservation.php"><button id="about-btn">Reservez ici</button></a>
                     </div>
                 </div>
             </div>
@@ -224,14 +216,14 @@
         <div class=" container">
 
             <div class="main-text">
-                <h1><span>D</span>écouvrez les Maldives</h1>
+                <h1><span>D</span>écouvrez l'Ecosse</h1>
             </div>
 
             <div class="row" style="margin-top: 30px;">
 
                 <div class="col-md-6 py-3 py-md-0">
                     <iframe class="relative flex items-center justify-center h-96 w-screen-xl  overflow-hidden"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8159199.921096209!2d67.94091904996493!3d3.09882189467529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x24b599bfaafb7bbd%3A0x414509e181956289!2sMaldives!5e0!3m2!1sfr!2sbe!4v1695593016139!5m2!1sfr!2sbe"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4373149.0706241885!2d-9.964976401599964!3d57.64293326467068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4861e2c403f2a19f%3A0xe7c1fad809c30714!2s%C3%89cosse%2C%20Royaume-Uni!5e0!3m2!1sfr!2sbe!4v1697352068301!5m2!1sfr!2sbe"
                         width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
@@ -242,32 +234,40 @@
                         <h3><span>I</span>nformations sur les Maldives</h3><br>
                     </div>
 
-                    <P> Les Maldives ont un climat tropical avec des températures chaudes toute l'année.
-                    <p>Décalage
-                        horaire
-                        Bruxelles Maldives
-                        + 4h en hiver et + 3h en été.</p>
+                    <P> Le climat ecossais, tout comme ses températures, est rarement torride, et il est difficile de passer à côté de la pluie. Cependant, ici, 
+                        pas de déluge ! On profite plutôt de légères bruines présentes tout le long de l'année. 
+                        La météo est modérée</P>
 
+                    <p><strong>En automne</strong>
+                        températures situées entre 8 et 14 °C
                     </p>
 
-                    <p>Ce sont 1199 îles coralliennes plates, réparties en 26 atolls plus 3 îles isolées :
-                        Kaashidhoo,
-                        Thoddoo et Fuvahmulah,
+                    <p><strong>En Hiver</strong>
+                        Décembre, janvier et février sont généralement les mois les plus froids en Écosse, avec une température maximale moyenne aux alentours 5 °C
+                        
                     </p>
 
-                    <p>Capitale : Malé Langue officielle : Divehi (maldivien) spa Monnaie : Rufiyaa
-                        maldivienne (MVR)
-                        Population : Environ 530 000 habitants
+                    <p><strong>Printemps</strong>
+                        Entre mars et mai, il fait en moyenne entre 7°C et 13 °C. Une saison idéale pour venir en Écosse et admirer les jonquilles, 
+                        jacinthes, cerisiers et autres rhododendrons se parer de leurs plus belles couleurs
+                        
                     </p>
 
-                    <ul class="mr-50 text-orange-500">
+                    <p><strong>Eté</strong>
+                        Juin, juillet et août sont généralement les mois les plus chauds en Écosse, avec des températures maximales moyennes situées entre 15 et 17 °C
+                        
+                    </p>
+
+
+                    
+                    <!-- <ul class="mr-50 text-orange-500">
                         <li class="text-center text-black"> Température moyenne : 28°C Température minimale
                             : 24°C </li>
                         <li class="text-center text-black">Température maximale : 31°CHumidité maximale : 87
                             % </li>
                         <li class="text-center text-black"> Précipitations : 0.0 mm ></li>
                         <li class="text-center text-black"> Vent : 15 km/h </li>
-                    </ul>
+                    </ul> -->
 
                     <a href="reservation.php"><button id="about-btn">Reservez ici</button></a>
                 </div>
@@ -280,54 +280,54 @@
         <section class="packages" id="packages">
             <div class="container">
                 <div class="main-text">
-                    <h1><span>N</span>os services</h1>
+                    <h1><span>N</span>os services en Ecosse</h1>
                 </div>
 
                 <div class="row" style="margin-top: 30px">
                     <div class="col-md-4 py-3 py-md-0">
                         <div class="card">
-                            <img src="../image/soiree.jpg" alt="" />
+                            <img src="../image/ecoACT3.jpg" alt="image ecosse" />
                             <div class="card-body">
                                 <h3>Activités</h3>
                                 <!-- <p class="cours">" Voyage en cours"</p> -->
                                 <p>
-                                    Plongez dans un paradis tropical aux eaux cristallines, où
-                                    chaque moment devient une évasion inoubliable!
+                                    Découvrez l'Écosse, un pays envoûtant où la magie des Highlands, la beauté des châteaux médiévaux et la chaleur de l'accueil écossais
+                                    se rencontrent pour vous offrir une aventure inoubliable au cœur de paysages à couper le souffle.
                                 </p>
                                 
-                                <a href="Activite.php">Découvrez plus</a>
+                                <a href="Acti-Ecosse.php">Découvrez plus</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-md-4 py-3 py-md-0">
                         <div class="card">
-                            <img src="../image/Images_garstronomie/D3.jpg " alt="" />
+                            <img src="../image/ecoFOOD7.jpg " alt="" />
                             <div class="card-body">
                                 <h3>Gastronomie</h3>
                                 <!-- <p class="cours">" Voyage en été"</p> -->
                                 <p>
-                                    Plongez dans l'enchantement de Zanzibar, où l'histoire
-                                    rencontre la beauté naturelle!
+                                    Plongez dans l'univers culinaire écossais, où les saveurs robustes du saumon fumé, de l'agneau des Highlands et du haggis éveilleront vos papilles,
+                                    tandis que les distilleries renommées vous invitent à déguster le précieux whisky écossais.
                                 </p>
                             
-                                <a href="#book">Découvrez plus</a>
+                                <a href="Acti-Ecosse.php">Découvrez plus</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-md-4 py-3 py-md-0">
                         <div class="card">
-                            <img src="../image/hoteluxe2.jpg" alt="" />
+                            <img src="../image/ecoCHA.jpg" alt="" />
                             <div class="card-body">
                                 <h3>Hébergement</h3>
                                 <!-- <p class="cours">" Voyage en automne"</p> -->
                                 <p>
-                                    Explorez les paysages mystiques et la richesse culturelle de
-                                    l'Écosse, une terre d'aventures sans fin
+                                    Trouvez refuge dans le charme authentique de l'Écosse, où des cottages pittoresques, des châteaux majestueux transformés en hôtels,
+                                    et des auberges historiques vous offrent un hébergement aussi unique que le paysage qui vous entoure. 
                                 </p>
                             
-                                <a href="#book">Découvrez plus</a>
+                                <a href="Acti-Ecosse.php">Découvrez plus</a>
                             </div>
                         </div>
                     </div>
@@ -344,34 +344,13 @@
         <!-- Section Services End -->
 
     
-<!-- 
-                <div class="row" style="margin-top: 30px">
-                    <div class="col-md-4 py-3 py-md-0">
-                        <div class="card">
-                            <img src="../image/Images_garstronomie/platting-4282019_640.jpg" alt="" height="230px" />
-                        </div>
-                    </div>
-                    <div class="col-md-4 py-3 py-md-0">
-                        <div class="card">
-                            <img src="../image/Images_garstronomie/G7.jpg" alt="" height="230px" />
-                        </div>
-                    </div>
-                    <div class="col-md-4 py-3 py-md-0">
-                        <div class="card">
-                            <img src="../image/Images_garstronomie/ppppp.jpg" alt="" height="230px" />
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </section>   -->
         <!-- Section Gallary End -->
 
         <!-- About Start -->
         <section class="Gallary" id="Gallary">
             <div class="container">
                 <div class="main-text">
-                    <h1>I<span>les </span></h1>
+                    <h1>D<span>es images de château et autres.</span></h1>
                 </div>
 
                 <div class="row" style="margin-top: 30px">
@@ -381,16 +360,15 @@
                         <div class="content">
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/desti/Kandolhu-Island.jpg" alt="">
+                                <img src="../image/edenbourg.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>Kandolhu-<span>Island</span></h3>
+                                            <h3>Le chateau<span> d'Édimbourg </span></h3>
                                         </div>
 
-                                        <p>Pour sa beauté naturelle préservée et ses eaux cristallines. Célèbre pour
-                                            abriter la réserve de biosphère des Maldives et le célèbre Hanifaru Bay et
-                                            observer y des raies manta et des requins-baleines.</p>
+                                        <p>Surplombant la capitale écossaise, le château d'Édimbourg est une forteresse historique qui offre une vue imprenable sur la ville. Ce château majestueux abrite la Pierre de la Destinée 
+                                            et la couronne d'Écosse, témoins de son rôle central dans l'histoire du pays.</p>
                                         <!-- <a href="relaxation.html">Lire Plus</a> -->
                                     </div>
                                 </div>
@@ -399,88 +377,86 @@
 
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/desti/malé.jpg" alt="" width="500PX">
+                                <img src="../image/ster2.webp" alt="" width="500PX">
                                 <div class="content">
                                     <div>
 
                                         <div class="iles">
-                                            <h3>M<span>alé</span></h3>
+                                            <h3>L<span>e château de Stirling </span></h3>
                                         </div>
                                         <!-- 
                                         <h4>détente et relaxation</h4> -->
                                         <p>
-                                            La capitale des Maldives, Malé, est une île animée et dynamique. Elle abrite
-                                            des sites culturels tels que la Mosquée du Vendredi, le Palais présidentiel
-                                            et le Musée national des Maldives..</p>
+                                            Situé sur une colline escarpée, le château de Stirling est un site historique emblématique d'Écosse. Il a joué un rôle crucial dans les guerres d'indépendance du pays. 
+                                            Les visiteurs peuvent explorer ses remparts, ses salles royales et profiter d'une vue panoramique</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/desti/Cocoa-Island-by-COMO.jpg" alt="">
+                                <img src="../image/Dun.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>Cocoa-<span>Island</span></h3>
+                                            <h3>L<span> e château de Dunnottar</span></h3>
                                         </div>
 
 
                                         <p>
-                                            Cet atoll est également proche de Malé et propose des stations balnéaires de
-                                            renommée mondiale. Il est réputé pour ses plages de sable blanc, ses récifs
-                                            coralliens et ses activités nautiques.</p>
+                                            Perché sur des falaises escarpées le long de la côte nord-est de l'Écosse, le château de Dunnottar est un lieu spectaculaire. 
+                                            Ses ruines pittoresques surplombent la mer du Nord et offrent un aperçu captivant de l'histoire médiévale écossaise.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/desti/maldives-beach-season.webp" alt="">
+                                <img src="../image/glamis.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>Vaavu <span>Atoll</span></h3>
+                                            <h3>L <span>e château de Glamis</span></h3>
                                         </div>
 
 
-                                        <p>Réputé pour son incroyable biodiversité marine. Il offre des possibilités de
-                                            plongée exceptionnelles, notamment dans les sites de plongée populaires tels
-                                            que Fotteyo Kandu et Alimatha Jetty.</p>
+                                        <p>Niché au cœur des terres agricoles du comté d'Angus, le château de Glamis est réputé pour son architecture élégante et ses jardins luxuriants. 
+                                            Il est également célèbre pour être le lieu de naissance de la reine mère, Elizabeth Bowes-Lyon..</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/desti/vihamanafushi.jpg" alt="">
+                                <img src="../image/INVERA.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>v<span>ihamanafushi</span></h3>
+                                            <h3>L<span>e château d'Inveraray</span></h3>
                                         </div>
 
 
-                                        <p>Cet atoll est connu pour ses stations balnéaires de luxe et ses superbes
-                                            plages. Il offre également de nombreuses activités nautiques, telles que la
-                                            planche à voile, le ski nautique et la pêche.</p>
+                                        <p>Situé sur les rives du Loch Fyne dans l'ouest de l'Écosse, le château d'Inveraray est un exemple impressionnant 
+                                            de l'architecture néo-gothique.Il est le siège du duc d'Argyll et ouvert au public, offrant un aperçu de la vie aristocratique écossaise.. 
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/desti/ile1.jpg" alt="">
+                                <img src="../image/URKAR.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
 
-                                            <h3>Ari<span> Atoll</span></h3>
+                                            <h3>L<span>e château d'Urquhart</span></h3>
                                         </div>
                                         <p>
-                                            Réputé pour ses stations balnéaires de luxe et ses plages de sable
-                                            blanc.Endroit idéal pour la plongée avec tuba et la plongée sous-marine,
-                                            avec des récifs coralliens colorés et une vie marine abondante.</p>
+                                            Surplombant le légendaire Loch Ness, le château d'Urquhart est un château en ruines qui offre une vue imprenable 
+                                            sur le loch et les montagnes environnantes. Il incarne le mystère et l'histoire des Highlands écossais, ainsi que 
+                                            la légende du monstre du Loch Ness.                 
+                                        </p>
                                     </div>
                                 </div>
                             </div>

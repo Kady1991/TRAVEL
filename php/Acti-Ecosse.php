@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="../asset/CSS/styleHome copy.css">
 
     <!-- style ajouter kady -->
-    <link rel="stylesheet" href="../asset/CSS/Modif-Fatma.css">
+    <link rel="stylesheet" href="../asset/CSS/Acti-Ecosse.css">
     <script src="../asset/JS/Modif-DD.js" defer></script>
     
 
@@ -86,7 +86,7 @@
             <a href="index.html"> <span>t</span> ravelink</a>
         </div> -->
         <!-- <a href="#" class="btn-reservation">Réserver Maintenant</a> -->
-     
+    
                 <!-- acceuil section -->
             <div class="responsive-menu">
                 <section id="home"  class="homme1">
@@ -95,9 +95,9 @@
                         <h4>Un voyage milles rencontres</h4>
                         <a href="Reservation.php" class="btn-reservation home-btn">Réserver Maintenant</a>
                         <div class="find_trip">
-                            <div class="card "  id="card1"><img    id="img1" src="../image/imgActivite/SPORT9.jpg"></div>
-                            <div class="card"  id="card2"><img   id="img2"  src="../image/RESTOTOO.png"></div>
-                            <div class="card" id="card3"><img    id="img3"  src="../image/logement.webp"></div>
+                            <div class="card "  id="card1"><img    id="img1" src="../image/corde.jpg"></div>
+                            <div class="card"  id="card2"><img   id="img2"  src="../image/ecoFOOD.jpg"></div>
+                            <div class="card" id="card3"><img    id="img3"  src="../image/eberg3.jpg"></div>
                         </div >
                     </div>
                 </section>
@@ -107,7 +107,7 @@
  <div class="acct1" id="acct1">  
     <div  class="debut" id="debut">
         <div class="header-title">
-            <h1 id="Activite">Activité</h1>
+            <h1 id="Activite">Activité en Ecosse</h1>
             <hr class="divider">
         </div>
     <p>profitez de la mer a votre rythme!</p>
@@ -115,39 +115,36 @@
     <div class="glob">
 
         <div class="imgacct">
-            <img src="../image/imgActivite/détente et bien être 3.jpg" alt="acct1">
+            <img src="../image/festoco.jpg" alt="acct1">
         </div>
 
         <div class="txt">
-            <h2>" Évasion sous les Étoiles "</h2>
-            <p> Plongez dans un monde de relaxation ultime avec notre activité "Évasion sous les Étoiles".
-                Dans un cadre apaisant, laissez-vous envelopper par les soins spa les plus luxueux, sous un ciel étoilé artificiellement 
-                créé pour une expérience unique. Vous serez transporté dans un état de détente profonde
+            <h4>" Highland Games "</h4>
+            <p> Les Highland Games sont des événements traditionnels écossais qui mêlent compétition sportive, musique et culture. Ils comprennent des épreuves de force comme le lancer de tronc,
+                le lancer de marteau et la course de sac, ainsi que des démonstrations de danse écossaise
             </p>
         </div>
 
         <div  class="txt">
-            <h2>" Kayak "</h2>
+            <h4>" Ceilidh Dancing"</h4>
 
-            <p> Le kayak, une activité incontournable de tout voyage, offre une immersion totale dans la beauté naturelle de
-                l'environnement aquatique. Glissant silencieusement sur les eaux, vous explorez des coins reculés, observez la faune et la flore locales,
-                et ressentez la sérénité de la nature de près. Le kayak est l'occasion parfaite de s'évader du quotidien
+            <p> Le ceilidh est une forme de danse traditionnelle écossaise qui se pratique en groupe. Les participants suivent des pas simples guidés par un appelant (caller) 
+                tandis qu'un groupe de musique traditionnelle écossaise joue des airs entraînants
             </p>
         </div>
         <div class="imgacct">
-            <img src="../image/imgActivite/kayakpex.jpg" alt="acct1">
+            <img src="../image/festo.webp" alt="acct1">
         </div>
 
 
         <div class="imgacct">
-            <img src="../image/imgActivite/soiree.jpg" alt="acct1">
+            <img src="../image/rand.webp" alt="acct1">
         </div>
         <div class="txt">
-            <h2>" Rythmes Endiablés "</h2>
+            <h4>" randonnée des Trois Lacs dans les Trossachs"</h4>
 
-                <p> Plongez dans l'effervescence de notre soirée dansante "Rythmes Endiablés". Avec des lumières étincelantes,
-                    une musique entraînante et une atmosphère électrisante, cette soirée vous invite à vous déhancher et à célébrer.
-                    Que vous soyez un danseur expérimenté ou que vous aimiez simplement vous laisser emporter par la musique
+                <p> Cette randonnée pittoresque vous emmènera à travers les paysages enchanteurs du parc national des Trossachs en Écosse. Vous commencerez votre aventure à Loch Katrine, 
+                    l'un des lacs les plus emblématiques de la région
                 </p>
         </div>
     </div>
@@ -159,31 +156,31 @@
         <div class="header-title">
             <h1>Image Gallery</h1>
             <hr class="divider">
-            <p>Chaque image de nos voyageurs raconte une histoire en deux dimensions.</p>
+            <p>Les voyageurs ont capturé leur joie à travers des photos, témoignant de la beauté de l'Écosse qui les a enchantés.</p>
         </div>
         <!-- Gallery Starts -->
         <div class="gallery">
             <div class="image">
-                <img src="../image/imgActivite/soiree3.jpg" alt="image-1">
+                <img src="../image/ecoCHA.jpg" alt="image-1">
                 </a>
             </div>
             <div class="image">
-                <img src="../image/imgActivite/kayakgroupe.jpg" alt="image-2">
+                <img src="../image/ecoACT.jpg" alt="image-2">
             
             </div>
             <div class="image">
-                    <img src="../image/imgActivite/soireé1.jpg" alt="image-3">
+                    <img src="../image/outlander.jpg" alt="image-3">
             
             </div>
             <div class="image">
-                    <img src="../image/détente et bien être 1.jpg " alt="image-4">
+                    <img src="../image/corde.jpg" alt="image-4">
                 
             </div>
             <div class="image">
-                    <img src="../image/imgActivite/bg6.jpg" alt="image-5">
+                    <img src="../image/randonne.jpg" alt="image-5">
             </div>
             <div class="image">
-                    <img src="../image/imgActivite/gal1.jpg" alt="image-6">
+                    <img src="../image/rand.webp" alt="image-6">
             </div>
         </div>
         <!-- Gallery Ends -->

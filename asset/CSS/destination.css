@@ -146,7 +146,11 @@ letter-spacing: -2rem;
 
 }  
 
+/* rajout kady */
 
+h3{
+  color: #e9770b;
+}
 /* 
 SCROLL maldives */
 
@@ -163,4 +167,12 @@ scroll-margin: 1px;
   overflow-y: scroll; /* Activation du défilement vertical */
   scroll-margin: 1px;
   }
-  
+
+  /* sroolbable Ecosse */
+  .scrollab{
+    
+      height: 330px; /* Hauteur de la section */
+      overflow-y: scroll; /* Activation du défilement vertical */
+      scroll-margin: 1px;
+      
+  }
