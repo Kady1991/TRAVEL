@@ -96,8 +96,8 @@
                         <a href="Reservation.php" class="btn-reservation home-btn">Réserver Maintenant</a>
                         <div class="find_trip">
                             <div class="card "  id="card1"><img    id="img1" src="../image/jeu1.jpg"></div>
-                            <div class="card"  id="card2"><img   id="img2"  src="../image/ecoFOOD.jpg"></div>
-                            <div class="card" id="card3"><img    id="img3"  src="../image/eberg3.jpg"></div>
+                            <div class="card"  id="card2"><img   id="img2"  src="../image/rere.jpg"></div>
+                            <div class="card" id="card3"><img    id="img3"  src="../image/HO4.jpg"></div>
                         </div >
                     </div>
                 </section>
@@ -200,33 +200,33 @@
 <div class="glob">
 
     <div class="imgacct">
-        <img src="../image/Images_garstronomie/plat.jpg" alt="acct1">
+        <img src="../image/ecoFOOD1.jpg" alt="acct1">
     </div>
     <div class="txt">
-        <h2> " Loup de mer en croûte " </h2>
-        <p>" Préparé avec le plus grand raffinement, notre "Loup de mer en croûte de sel" est une expérience gastronomique 
-            luxueuse qui ravit les amateurs de poisson. Un filet de loup de mer frais, délicatement assaisonné,
-            est enveloppé dans une croûte de sel artisanale, créant une coquille qui emprisonne les saveurs et les arômes "</p>
+        <h2> " Haggis, Neeps and Tatties " </h2>
+        <p>Le haggis est le plat national de l'Écosse, un mélange de viandes hachées, d'avoine et d'épices, traditionnellement enveloppé dans une panse de brebis. 
+            Servi avec "neeps" (navets) et "tatties" (pommes de terre), ce plat rustique est un incontournable de la cuisine écossaise
+        </p>
     </div>
     <div  class="txt">
-            <h2> " Filet Mignon Rossini "</h2>
-            <p>Le "Filet Mignon Rossini" incarne l'apogée de la gastronomie de luxe. Un filet mignon de bœuf tendre et juteux est grillé à la perfection,
-            puis couronné d'une tranche de foie gras poêlé. Le tout repose sur un lit de pain grillé,
-            arrosé d'une sauce au vin rouge réduite, pour créer un équilibre harmonieux .</p>
+            <h2> " Cullen Skink "</h2>
+            <p> Le Cullen Skink est une délicieuse soupe épaisse de poisson originaire du village de Cullen, sur la côte nord-est de l'Écosse. 
+                Il est préparé avec du haddock fumé, des pommes de terre, des oignons et de la crème
+            </p>
     </div>
     <div class="imgacct">
-        <img src="../image/Images_garstronomie/ECO4.jpg" alt="acct1">
+        <img src="../image/culen.jpg" alt="acct1">
     </div>
 
 
     <div class="imgacct">
-        <img src="../image/Images_garstronomie/desrt1.jpg" alt="acct1">
+        <img src="../image/DESO.jpg" alt="acct1">
     </div>
     <div class="txt">
-        <h2>" Fondant au Chocolat "</h2>
-        <p>Notre "Fondant au Chocolat Grand Cru" est une expérience chocolatée inégalée, mettant en avant le meilleur du cacao.
-            Ce dessert divinement riche présente une texture moelleuse à l'extérieur, tandis que l'intérieur cache un cœur liquide de chocolat noir d'exception,
-            créant un contraste de saveurs et de textures envoûtant. </p>
+        <h2>" Cranachan "</h2>
+        <p> Le Cranachan est un dessert traditionnel écossais composé de couches de flocons d'avoine grillés, de crème fouettée, de miel et de framboises. Cette concoction sucrée est à la fois croquante et onctueuse, 
+            offrant une combinaison parfaite de textures et de saveurs
+        </p>
     </div>
 
 
@@ -236,31 +236,31 @@
     <div class="header-title">
         <h1>Image Gallery</h1>
         <hr class="divider">
-        <p>Les images de nos voyageurs sont des instantanés mémorables de leurs aventures.</p>
+        <p>Les images capturées par nos voyageurs en Écosse sont des fenêtres sur un paysage époustouflant, où les majestueuses montagnes, les lacs sereins et les châteaux historiques se mêlent à la chaleur de l'accueil écossais</p>
     </div>
     <!-- Gallery Starts -->
     <div class="gallery">
         <div class="image">
-            <img src="../image/Images_garstronomie/GG5.jpg" alt="image-1">
+            <img src="../image/ecoDES1.jpg" alt="image-1">
             </a>
         </div>
         <div class="image">
-            <img src="../image/Images_garstronomie/CH2.webp" alt="image-2">
+            <img src="../image/ECOfood2.jpg" alt="image-2">
         
         </div>
         <div class="image">
-                <img src="../image/RETT.webp" alt="image-3">
+                <img src="../image/ecoFOOD4.jpg" alt="image-3">
         
         </div>
         <div class="image">
-                <img src="../image/RESTOTOO.png" alt="image-4">
+                <img src="../image/FOOD.JPG" alt="image-4">
             
         </div>
         <div class="image">
-                <img src="../image/Images_garstronomie/G.jpg" alt="image-5">
+                <img src="../image/SOO.jpg" alt="image-5">
         </div>
         <div class="image">
-                <img src="../image/Images_garstronomie/CHEF.jpg" alt="image-6">
+                <img src="../image/SOMONeco.jpg" alt="image-6">
         </div>
     </div>
     <!-- Gallery Ends -->
@@ -281,26 +281,25 @@
 <div class="glob">
 
     <div class="imgacct">
-        <img src="../image/MicrosoftTeams-image (15).png" alt="acct1">
+        <img src="../image/HI.jpg" alt="acct1">
     </div>
     <div class="txt">
-        <h2>" Retraite sur l'Atoll " </h2>
+        <h2>" Auberges (Hostels) " </h2>
 
-        <p> Notre logement "Retraite sur l'Atoll" aux Maldives est une oasis de luxe nichée sur les rives d'un atoll paradisiaque.
-            Offrant des vues imprenables sur les eaux cristallines de l'océan Indien, cette retraite incarne le raffinement tropical.
-            
+        <p> Les auberges écossaises offrent un hébergement économique et convivial, idéal pour les voyageurs à petit budget. 
+            Vous pouvez choisir entre des dortoirs partagés ou des chambres privées   
         </p>
 
     </div>
     <div  class="txt">
-        <h2> " Raffinement Tropical "</h2>
+        <h2> " B&Bs (Bed and Breakfasts) "</h2>
 
-        <p>Notre logement "Raffinement Tropical à l'Intérieur" aux Maldives est une fusion de luxe et de nature, capturée à l'intérieur.
-            Les espaces intérieurs sont conçus avec une élégance décontractée, reflétant l'environnement tropical et les traditions locales
+        <p> Les B&Bs écossais sont des hébergements de charme, gérés par des hôtes locaux. Vous pouvez vous attendre à un accueil chaleureux 
+            et à un petit-déjeuner copieux et délicieux, généralement inclus dans le tarif
         </p>
     </div>
     <div class="imgacct">
-        <img src="../image/chambre.jpg" alt="acct1">
+        <img src="../image/AU10.jpg" alt="acct1">
     </div>
 
     <div class="imgacct">
