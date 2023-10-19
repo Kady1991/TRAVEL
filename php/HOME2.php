@@ -158,8 +158,15 @@
 
                     <div class="row">
                         <div class="col-md-6 py-3 py-md-0 ">
-                            <div class="card">
+                            <div class="carde">
                                 <img src="../image/beach.jpg" alt="">
+                                <!-- <div class="pic-ctn">
+                                    <img src="../image/maldives.jpg" alt="" class="pic">
+                                    <img src="../image/ILE3.jpg" alt="" class="pic">
+                                    <img src="../image/MAL.jpg" alt="" class="pic">
+                                    <img src="../image/chacha.jpg" alt="" class="pic">
+                                    <img src="../image/beach.jpg" alt="" class="pic">
+                                </div> -->
                             </div>
                         </div>
 

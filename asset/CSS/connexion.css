@@ -13,11 +13,11 @@
     height: 100vh;
     width: 100%;
     padding: 0 8%;
-    /* background-image: url(../../image/pexels-asad-photo-maldives-9394267.jpg);
-background-position: center center no-repeat ; */
     background: linear-gradient(rgba(88, 87, 87, 0.245), transparent), url('../../image/imgActivite/IN.jpg') center center no-repeat;
     background-size: cover;
+    
 }
+
 
 .sec-container {
     width: 90%;
@@ -32,56 +32,52 @@ nav {
     padding: 5px 0;
 }
 
-/* nav .logo {
-    width: 120px;
+nav .logo {
+    width: 250px;
     cursor: pointer;
-    font-size: 2.5rem;
-    font-style: oblique;
-    font-weight: bold;
-    text-decoration: none;
-    color: #94f7e6;
-} */
+    text-decoration: none;   
+}
 
 nav ul {
     display: flex;
     justify-content: flex-end;
     flex: 1;
     align-items: center;
-    padding-right: 40px;
+    /* padding-right: 40px; */
     text-align: right;
     list-style-type: none;
 }
 
-ul li {
+/* ul li {
     margin-right: 10px;
-}
+} */
 
-ul li a {
+/* ul li a {
     position: relative;
     padding: 10px 20px;
     text-decoration: none;
     color: #fff;
     font-size: 16px;
-}
+} */
 
 button.btnn {
     padding: 10px 20px;
     font-size: 1.2rem;
-    font-weight: bold;
-    font-style: italic;
+    /* font-weight: bold; */
+    /* font-style: italic; */
     margin-top: 0;
     background-color: transparent;
     color: white;
     border: transparent;
     transition: border-color 0.3s ease;
     border-radius: 0.5rem;
-    background-color:#ec6104;
+    background-color:#f86706;
     margin-top: 1rem;
     
 }
 
 button.btnn:hover {
-    background-color: #933e05;
+    background-color:#f88132;
     color: white;
 }
 
@@ -91,6 +87,8 @@ section {
     align-items: center;
     margin: 50px 0;
 }
+
+/* centrer le formulaire */
 
 .formWrapper {
     
@@ -104,10 +102,12 @@ section {
     width: 400px;
     height: 70vh;
     padding: 20px;
-    background-color: rgba(9, 9, 9, 0.301);
+    background-color: rgba(9, 9, 9, 0.167);
     visibility: hidden;
     opacity: 0;
     transition: opacity 0.3s, visibility 0.3s;
+    border-radius: 0.5rem;
+    /* box-shadow: 2px 3px 8px #fff; */
 }
 
 .cardind.show {
@@ -122,8 +122,8 @@ section {
     align-items: center;
     margin: 30px 20px 0;
     font-size: 1.1rem;
-    color: #f86706;
-    box-shadow: 2px 3px 8px#f86706;
+    color: #f6f6f6;
+    /* box-shadow: 2px 3px 8px #fff; */
 }
 
 .card-header .form-header {
@@ -131,19 +131,23 @@ section {
     flex: 50%;
     text-align: center;
     padding: 10px 0;
-    /* border: 1px solid transparent; */
-    user-select: none;
+    border: 1px solid transparent;
+    user-select:none;
+    
 }
 
 .card-header .form-header:hover {
     cursor: pointer;
+    /* background-color:#fff2eaf8 transparent;
+    color:white; */
 }
 
 .card-header .form-header.active {
-    border-color: #f86706;
-    box-shadow: inset 1px 1px 2px rgb(245, 149, 59), inset -1px 1px 2px rgb(245, 149, 59) inset -1px -1px 2px rgb(245, 149, 59),
-        inset 1px -1px 2px rgb(245, 149, 59);
+    border-color: #f6f5f4;
+    /* box-shadow: inset 1px 1px 2px rgb(245, 149, 59), inset -1px 1px 2px rgb(245, 149, 59) inset -1px -1px 2px rgb(245, 149, 59),
+        inset 1px -1px 2px rgb(245, 149, 59); */
     transition: border-color 0.3s, box-shadow 0.3s;
+    box-shadow: 2px 3px 8px #fff;
 }
 
 .card-bod {
@@ -167,10 +171,10 @@ form {
     border-bottom: 1px solidrgb(245, 149, 59);
     background: none;
     outline: none;
-    padding: 10px 5px;
-    margin-bottom: 20px;
+    /* padding: 10px 5px; */
+    margin-bottom: 30px;
     color: #140606;
-   
+
 }
 
 label {
@@ -191,21 +195,29 @@ label {
 }
 
 .formButton {
-    border: 1px solid transparent;
-    height:3rem ;
-    width: 12rem;
-    background-color:  #ed5909;
-    border-radius: 0.5rem;
-    margin-top: 1rem;
-    font-size: 1rem;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    margin-top: 0;
+    background-color: transparent;
     color: white;
-    letter-spacing: 0.2rem;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: transparent;
+    transition: border-color 0.3s ease;
+    border-radius: 0.5rem;
+    background-color:#f86706;
+    margin-top: 1rem;
+    width: 15rem;
+    
 }
 
 .formButton:hover {
-    box-shadow: 3px 5px 15px #ed5909;
-    transform: translateY(-5px);
+    /* box-shadow: 3px 5px 15px #ed5909;
+    transform: translateY(-5px); */
+    color: white;
+    border: #f86706 solid 1px;
+    background-color: #f88132;
+    
 }
 
 .toggleForm {
@@ -213,4 +225,19 @@ label {
     opacity: 0;
     transition: opacity 0.3s, visibility 0.3s;
 }
+
+
+/* style modif  kady chantal*/ 
+
+/* style logo noir */
+    .logonoir{
+        width: 200px;
+        margin-bottom: 4rem;
+    }
+
+    .titreLog{
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
 

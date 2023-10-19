@@ -39,9 +39,13 @@
                     <title>formulaire</title>
                 </head>
                 <body>
+
+                    
+                    
                     <div class="containerind">
+                        
                         <nav>
-                            <a class="navbar-brand" href="#" id="logo"><img class="logo" src="../image/logo.png"alt="">
+                            <a class="navbar-brand" href="#" id="logo"><img class="logo"  src="../image/logo.png" alt="">
                                 </a>
                             <ul>
                                 <li class="nav-item">
@@ -49,6 +53,10 @@
                                 </li>
                             </ul>
                         </nav>
+
+                        <div class="accueil">
+                            
+                        </div>
                         <section>
                             <div class="sec-container">
                                 <div class="formWrapper">
@@ -87,13 +95,14 @@
                                 </div>
                             </div>
                         </section>
+                        </div>
                     </div>
                     <section class="book" id="book">
                     <div class="container">
 
-                        <div class="main-text">
-                            <h1 ><span></span><img src="../image/logo.png" width="150px" style="background-color: black;" alt=""> en quelques mots</h1>
-                        </div>
+                        <!-- <div class="main-text"> -->
+                            <h1 class="titreLog" ><span class="logonoir"><img class="logonoir" src="../image/logonoir.png"  alt=""></span> en quelques mots</h1>
+                        <!-- </div> -->
 
                         <div class="row">
                             <div class="col-md-6 py-3 py-md-0 ">
@@ -678,8 +687,7 @@
                         </div>
                         <p class="paraContact">
                             Vous pouvez nous contacter facilement en envoyant votre message via ce formulaire.
-                            De plus, notre service client est disponible par téléphone pendant les heures de bureau. Enfin, 
-                            n'hésitez pas à nous rejoindre sur nos réseaux sociaux pour une communication rapide et conviviale.
+                            De plus, notre service client est disponible par téléphone pendant les heures de bureau..
                         </p>
 
 
