@@ -752,10 +752,10 @@
                     
                             <div class="contact-form">
                                             <div class="main-text"><h1><span>N</span>ous contacter</h1></div>
-                                <form action="#" method="POST">
+                                <form action="traitement-Contact.php" method="POST">
                     
                                     <label for="nom">Nom :</label>
-                                    <input type="text" id="nom" name="nom" required>
+                                    <input type="text" id="name" name="name" required>
                                         
                                     <label for="email">Email :</label>
                                     <input type="email" id="email" name="email" required>
