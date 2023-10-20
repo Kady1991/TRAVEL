@@ -1,0 +1,184 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .content{
+        width:100vw ;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .global{
+    position: relative;
+        width: 90%;
+        height: 80%;
+        display: flex;
+        background-color: rgba(246, 241, 241, 0.591);
+    }
+    .img{
+    position: relative;
+        width: 50%;
+        height: 100%;
+        background-image: url("mal1.jpg");
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center; 
+        border-radius: 5px;
+        border: none;
+    }
+
+    .perso{
+        width:60% ;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 10px;
+    }
+    .perso h1{
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(242, 69, 6);
+    }
+    .formR {
+    margin-top: 15px;
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+
+    }
+    .box{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+    .col{
+    width: 45%;
+    height: 50px;
+    }
+    .col input{
+    padding-left: 10px;
+    font-size: 17px;
+    width: 100%;
+    height: 100%;
+    outline:  none;
+    border-radius: 10px;
+    border: 1px rgb(185, 182, 182) solid;
+    }
+    input[type="radio"] {
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 50%;
+    }
+
+    .MOD{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 60px;
+    gap: 10px;
+    font-size: 25px;
+    margin-top :30px;
+
+        margin: auto; 
+
+    }
+    .col select{
+    border-radius: 10px;
+    font-size: 15px;
+    outline: none;
+    width: 100%;
+    height: 100%;
+    border: 1px rgb(185, 182, 182) solid;
+    }
+    .butt{
+    margin-top: 30px;
+        margin: auto; 
+    width: 50%;
+    height:100px;
+    /* margin-bottom: 20px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .butt button{
+    width: 50%;
+    height: 50px;
+    color: rgb(245, 245, 245);
+    background-color: orangered;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    outline: none;
+    }
+    button:hover{
+    background-color: rgb(205, 101, 64);;
+    }
+    @media screen and (max-width: 1400px)  {
+    .global .img{
+        position: relative;
+        top: 0;
+        left:0 ;
+        width: 100%;
+        height: 100%;
+        opacity: 0.5;
+    }
+    .global .perso{
+        position:absolute;
+        width: 100%;
+        z-index: 10;
+    }
+    }
+    @media screen and (max-width: 780px){
+    .global .perso{
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+        
+    }
+    .form{
+        position: relative;
+        width: 90%;
+        height:75% ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    .box{
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    .col{
+    width: 81%;
+    height: 40px;
+    }
+    .MOD{
+    width: 100%;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+    font-size: 20px;
+    }
+    .butt{
+    width: 100%;
+    height: 60px;
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    }
