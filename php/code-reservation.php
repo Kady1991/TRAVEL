@@ -11,7 +11,7 @@
                     $tel = trim($_POST['tel']);
                     $adress = trim($_POST['adresse_postal']);
                     $paiement = trim($_POST['paiement']);
-                    include './base/b_d.php';
+                    include '../base/b_d.php';
                     $sql = "
                     INSERT INTO  
                         user_reserveé

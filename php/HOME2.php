@@ -51,7 +51,7 @@
                                 <a class="nav-link active" href="HOME2.php">Accueil</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#book">Reservation</a>
+                                <a class="nav-link" href="reservation.php">Reservation</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#packages">Destination</a>
