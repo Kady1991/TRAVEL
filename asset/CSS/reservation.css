@@ -3,39 +3,52 @@
         padding: 0;
         box-sizing: border-box;
     }
-    .content{
+    .contentDES{
         width:100vw ;
-        height: 100vh;
+        height: 90vh;
         display: flex;
         justify-content: center;
         align-items: center;
+        /* background-color: brown; */
     }
-    .global{
+    .globali{
     position: relative;
         width: 90%;
-        height: 80%;
+        height: 100%;
         display: flex;
         background-color: rgba(246, 241, 241, 0.591);
     }
-    .img{
+
+    .imgre{
     position: relative;
         width: 50%;
         height: 100%;
-        background-image: url("../../image/imgActivite/maldi3.jpg");
-        background-size: cover; 
+        /* background-image: url("../../image/beach.jpg"); */
+        /* background-size: cover; 
         background-repeat: no-repeat; 
-        background-position: center; 
+        background-position: center;  */
         border-radius: 5px;
         border: none;
+    } 
+
+    #destination-image{
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        object-fit: cover;
+        margin-left: 1%;
+        margin-top: 1%;
+    
     }
 
     .perso{
         width:60% ;
-        height: 100%;
+        height: 80%;
         display: flex;
         flex-direction: column;
         justify-content: center;
-        padding: 10px;
+        padding: 5px;
+        
     }
     .perso h1{
     margin-bottom: 40px;
@@ -51,19 +64,21 @@
     flex-direction: column;
     justify-content: center;
     gap: 15px;
-
     }
-    .box{
+
+
+    .boxi{
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
-        gap: 50px;
+        gap: 30px;
     }
-    .col{
-    width: 45%;
-    height: 50px;
+    .coli{
+    width: 40%;
+    height: 40px;
+    
     }
-    .col input{
+    .coli input{
     padding-left: 10px;
     font-size: 17px;
     width: 100%;
@@ -72,26 +87,27 @@
     border-radius: 10px;
     border: 1px rgb(185, 182, 182) solid;
     }
+
     input[type="radio"] {
-    width: 1.5em;
-    height: 1.5em;
+    width: 1em;
+    height: 1em;
     border-radius: 50%;
     }
 
-    .MOD{
+    .MODe{
     width: 70%;
-    display: flex;
+    display: block;
     justify-content: space-around;
     align-items: center;
-    margin-left: 60px;
-    gap: 10px;
-    font-size: 25px;
+    margin-left: 70px;
+    gap: 8px;
+    font-size: 17px;
     margin-top :30px;
-
-        margin: auto; 
-
+    
     }
-    .col select{
+
+    
+    .coli select{
     border-radius: 10px;
     font-size: 15px;
     outline: none;
@@ -99,7 +115,7 @@
     height: 100%;
     border: 1px rgb(185, 182, 182) solid;
     }
-    .butt{
+    .butta{
     margin-top: 30px;
         margin: auto; 
     width: 50%;
@@ -109,7 +125,7 @@
     justify-content: center;
     align-items: center;
     }
-    .butt button{
+    .butta button{
     width: 50%;
     height: 50px;
     color: rgb(245, 245, 245);
@@ -123,7 +139,7 @@
     background-color: rgb(205, 101, 64);;
     }
     @media screen and (max-width: 1400px)  {
-    .global .img{
+    .globali .imgre{
         position: relative;
         top: 0;
         left:0 ;
@@ -131,22 +147,103 @@
         height: 100%;
         opacity: 0.5;
     }
-    .global .perso{
+    .globali .perso{
         position:absolute;
         width: 100%;
         z-index: 10;
     }
     }
+
     @media screen and (max-width: 780px){
-    .global .perso{
+    .globali .perso{
         position: absolute;
         display: block;
         width: 100%;
         height: 100%;
-        box-sizing: border-box;
-        
+        box-sizing: border-box;  
     }
-    .form{
+
+    .MODe{
+        color: white;
+    }
+
+    input[type="radio"] {
+        font-size: 1rem;
+    }
+
+  .perso h1{
+        
+        margin-bottom: 4rem;
+    }
+    .imgre{
+        display: none;
+    }
+
+    body{
+        background-image: url("../../image/imgActivite/groupe16.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .globali{
+        position: relative;
+            width: 90%;
+            height: 100%;
+            display: flex;
+            background-color: transparent;
+        }
+
+        .coli input{
+            padding-left: 10px;
+            font-size: 17px;
+            width: 90%;
+            height: 100%;
+            outline:  none;
+            border-radius: 10px;
+            /* border: 1px rgb(185, 182, 182) solid; */
+            background-color: rgba(255, 255, 255, 0.745);
+            margin: auto;
+            }
+
+        .MODe p{
+            width: 60%;
+            display: block;
+            justify-content: space-around;
+            align-items: center;
+            margin-left: 10px;
+            gap: 8px;
+            font-size: 15px;
+            margin-top :15px;
+            }
+
+            .MODe{
+                
+                    /* width: 60%;
+                    display: block;
+                    justify-content: space-around;
+                    align-items: center;
+                    margin-left: 10px;
+                    gap: 8px;
+                    font-size: 15px;
+                    margin-top :15px;
+                 */
+            }
+
+
+            .coli select{
+                padding-left: 10px;
+                font-size: 17px;
+                width: 90%;
+                height: 100%;
+                outline:  none;
+                border-radius: 10px;
+                /* border: 1px rgb(185, 182, 182) solid; */
+                background-color: rgba(255, 255, 255, 0.833);
+                margin: auto;
+            }
+    
+    .formR{
         position: relative;
         width: 90%;
         height:75% ;
@@ -154,17 +251,20 @@
         justify-content: center;
         align-items: center;
         margin-top: 50px;
+        margin-left: 8%;
+        
     }
-    .box{
+    .boxi{
         justify-content: center;
         align-items: center;
         gap: 10px;
     }
-    .col{
+    .coli{
     width: 81%;
     height: 40px;
+    
     }
-    .MOD{
+    .MODe{
     width: 100%;
     gap: 20px;
     display: flex;
@@ -173,7 +273,7 @@
     margin-right: 15px;
     font-size: 20px;
     }
-    .butt{
+    .butta{
     width: 100%;
     height: 60px;
     margin-bottom: 70px;
