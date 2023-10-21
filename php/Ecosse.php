@@ -89,26 +89,26 @@
             <div class="slide">
                 <h2 class="slogan">Ecosse <br /></h2>
 
-                <img src="../image/desti/Kandolhu-Island.jpg" alt="Image 1" />
+                <img src="../image/ecosse3.jpg" alt="Image 1" />
             </div>
 
             <div class="slide">
                 <h2 class="slogan">Ecosse</h2>
-                <img src="../image/mer.jpg" alt="Image 2" />
+                <img src="../image/ecosse3.jpg" alt="Image 2" />
             </div>
 
             <div class="slide">
                 <h2 class="slogan">Ecosse</h2>
-                <img src="../image/c1.jpg" alt="Image 3" />
+                <img src="../image/ecosse3.jpg" alt="Image 3" />
             </div>
 
             <div class="slide">
                 <h2 class="slogan">Ecosse</h2>
-                <img src="../image/c2.jpg" alt="Image 2" />
+                <img src="../image/ecosse3.jpg" alt="Image 2" />
             </div>
             <div class="slide">
                 <h2 class="slogan">Ecosse</h2>
-                <img src="../image/desti/Kandolhu-Island.jpg" alt="Image 2" />
+                <img src="../image/ecosse3.jpg" alt="Image 2" />
             </div>
         </div>
 

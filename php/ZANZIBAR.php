@@ -89,26 +89,26 @@
             <div class="slide">
                 <h2 class="slogan">Zanzibar <br /></h2>
 
-                <img src="../image/desti/Kandolhu-Island.jpg" alt="Image 1" />
+                <img src="../image/Z1.jpg alt="Image 1" />
             </div>
 
             <div class="slide">
                 <h2 class="slogan">Zanzibar</h2>
-                <img src="../image/mer.jpg" alt="Image 2" />
+                <img src="../image/Z1" alt="Image 2" />
             </div>
 
             <div class="slide">
                 <h2 class="slogan">Zanzibar</h2>
-                <img src="../image/c1.jpg" alt="Image 3" />
+                <img src="../image/Z1.jpg" alt="Image 3" />
             </div>
 
             <div class="slide">
                 <h2 class="slogan">Zanzibar</h2>
-                <img src="../image/c2.jpg" alt="Image 2" />
+                <img src="../image/Z1.jpg" alt="Image 2" />
             </div>
             <div class="slide">
                 <h2 class="slogan">Zanzibar</h2>
-                <img src="../image/desti/Kandolhu-Island.jpg" alt="Image 2" />
+                <img src="../image/Z1.jpg" alt="Image 2" />
             </div>
         </div>
 
@@ -356,106 +356,103 @@
                         <div class="content">
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/zanzibar-.jpg" alt="">
+                                <img src="../image/PAN5.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>Kandolhu-<span>Island</span></h3>
+                                            <h3>P<span>emba</span></h3>
                                         </div>
 
-                                        <p>Pour sa beauté naturelle préservée et ses eaux cristallines. Célèbre pour
-                                            abriter la réserve de biosphère des Maldives et le célèbre Hanifaru Bay et
-                                            observer y des raies manta et des requins-baleines.</p>
-                                        <!-- <a href="relaxation.html">Lire Plus</a> -->
+                                        <p>Pemba est l'île jumelle d'Unguja et est moins développée, offrant un refuge paisible pour les amoureux de la nature. Elle est célèbre pour ses plantations d'épices,
+                                            ses plages immaculées, et ses sites de plongée sous-marine spectaculaires.
+                                        </p>
+                                        
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
 
                             <!-- box -->
+
                             <div class="box">
                                 <img src="../image/imgActivite/maldi3.jpg" alt="" width="500PX">
                                 <div class="content">
                                     <div>
 
                                         <div class="iles">
-                                            <h3>M<span>alé</span></h3>
+                                            <h3>U<span>nguja</span></h3>
                                         </div>
                                         <!-- 
                                         <h4>détente et relaxation</h4> -->
                                         <p>
-                                            La capitale des Maldives, Malé, est une île animée et dynamique. Elle abrite
-                                            des sites culturels tels que la Mosquée du Vendredi, le Palais présidentiel
-                                            et le Musée national des Maldives..</p>
+                                            Unguja (également connue sous le nom de Zanzibar) : Unguja est l'île principale de l'archipel de Zanzibar. Elle est renommée 
+                                            pour ses plages de sable blanc, son histoire riche, notamment Stone Town, 
+                                            site classé au patrimoine mondial de l'UNESCO, et ses marchés animés.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/TT2.jpg" alt="">
+                                <img src="../image/MA.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>Cocoa-<span>Island</span></h3>
+                                            <h3>M<span>afia</span></h3>
                                         </div>
 
 
                                         <p>
-                                            Cet atoll est également proche de Malé et propose des stations balnéaires de
-                                            renommée mondiale. Il est réputé pour ses plages de sable blanc, ses récifs
-                                            coralliens et ses activités nautiques.</p>
+                                            Mafia : Bien que Mafia soit située au large de la côte de Tanzanie, elle fait souvent partie des voyages aux îles de Zanzibar. L'île est un paradis pour la plongée avec ses récifs 
+                                            coralliens intacts et ses activités de plongée en apnée exceptionnelles.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/imgActivite/monum3.jpg" alt="">
+                                <img src="../image/ILE3.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>Vaavu <span>Atoll</span></h3>
+                                            <h3>M<span>nemba</span></h3>
                                         </div>
 
 
-                                        <p>Réputé pour son incroyable biodiversité marine. Il offre des possibilités de
-                                            plongée exceptionnelles, notamment dans les sites de plongée populaires tels
-                                            que Fotteyo Kandu et Alimatha Jetty.</p>
+                                        <p>Mnemba est une petite île privée située au nord-est de Zanzibar, connue pour ses eaux cristallines et ses récifs coralliens, 
+                                            en faisant un lieu de prédilection pour la plongée et la plongée en apnée.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/TT.jpg" alt="">
+                                <img src="../image/gou.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
-                                            <h3>v<span>ihamanafushi</span></h3>
+                                            <h3>C<span>hanguu</span></h3>
                                         </div>
 
 
-                                        <p>Cet atoll est connu pour ses stations balnéaires de luxe et ses superbes
-                                            plages. Il offre également de nombreuses activités nautiques, telles que la
-                                            planche à voile, le ski nautique et la pêche.</p>
+                                        <p>Changuu (également appelée Prison Island) : Changuu est célèbre pour son histoire, notamment une ancienne prison et la 
+                                            présence des tortues géantes d'Aldabra qui errent librement sur l'île.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- box -->
                             <!-- box -->
                             <div class="box">
-                                <img src="../image/ILE 1.jpg" alt="">
+                                <img src="../image/iiiil.jpg" alt="">
                                 <div class="content">
                                     <div>
                                         <div class="iles">
 
-                                            <h3>Ari<span> Atoll</span></h3>
+                                            <h3>T<span>umbatu</span></h3>
                                         </div>
                                         <p>
-                                            Réputé pour ses stations balnéaires de luxe et ses plages de sable
-                                            blanc.Endroit idéal pour la plongée avec tuba et la plongée sous-marine,
-                                            avec des récifs coralliens colorés et une vie marine abondante.</p>
+                                            Tumbatu est une île plus isolée et moins visitée, offrant une expérience authentique de Zanzibar. 
+                                            Vous y trouverez des villages de pêcheurs, des plages paisibles et une ambiance tranquille.</p>
                                     </div>
                                 </div>
                             </div>
@@ -465,7 +462,9 @@
         </section>
 
         </div>
+        
         </section>
+        
 
 
 

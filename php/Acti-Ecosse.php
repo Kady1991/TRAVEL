@@ -104,7 +104,9 @@
             </div>
     </header>
 <!--  debut 1categorie d'activite -->
- <div class="acct1" id="acct1">  
+
+
+<div class="acct1" id="acct1">  
     <div  class="debut" id="debut">
         <div class="header-title">
             <h1 id="Activite">Activité en Ecosse</h1>
@@ -113,6 +115,19 @@
     <p>profitez de la mer a votre rythme!</p>
     </div>
     <div class="glob">
+
+    <div class="fixed-text">
+            <a href="Maldive.php" style="color: aliceblue;"><span>A</span>
+                <span>C</span>
+                <span>T</span>
+                <span>I</span>
+                <span>V</span>
+                <span>I</span>
+                <span>T</span>
+                <span>E</span>
+            </a>
+            
+        </div>
 
         <div class="imgacct">
             <img src="../image/festoco.jpg" alt="acct1">
@@ -199,6 +214,22 @@
 </div>
 <div class="glob">
 
+        <div class="fixed-text">
+            <a href="Maldive.php" style="color: aliceblue;"><span>G</span>
+                <span>A</span>
+                <span>S</span>
+                <span>T</span>
+                <span>R</span>
+                <span>O</span>
+                <span>N</span>
+                <span>O</span>
+                <span>M</span>
+                <span>I</span>
+                <span>E</span>
+            </a>
+            
+        </div>
+
     <div class="imgacct">
         <img src="../image/ecoFOOD1.jpg" alt="acct1">
     </div>
@@ -271,6 +302,8 @@
 
 
 <!--  debut 3categorie d'activite -->
+    
+
 <div class="acct1" id="acct3">  
 <div  class="debut" id="debut">
     <div class="header-title">
@@ -280,12 +313,32 @@
 </div>
 <div class="glob">
 
+    <div class="fixed-text">
+        <a href="Acti-Ecosse.php" style="color: aliceblue;"><span>H</span>
+            <span>E</span>
+            <span>B</span>
+            <span>E</span>
+            <span>R</span>
+            <span>G</span>
+            <span>E</span>
+            <span>M</span>
+            <span>E</span>
+            <span>N</span>
+            <span>T</span>
+        </a>
+        
+    </div>
+
     <div class="imgacct">
         <img src="../image/HI.jpg" alt="acct1">
     </div>
     <div class="txt">
         <h2>" Auberges " </h2>
 
+
+        <div class="fixed-text">
+            
+        </div>
         <p> Les auberges écossaises offrent un hébergement économique et convivial, idéal pour les voyageurs à petit budget. 
             Vous pouvez choisir entre des dortoirs partagés ou des chambres privées   
         </p>

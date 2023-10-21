@@ -120,6 +120,20 @@
     </div>
     <div class="glob">
 
+        <div class="fixed-text">
+            <a href="Acti-Maldive.php" style="color: aliceblue;"><span>A</span>
+                <span>C</span>
+                <span>T</span>
+                <span>I</span>
+                <span>V</span>
+                <span>I</span>
+                <span>T</span>
+                <span>E</span>
+                
+            </a>
+            
+        </div>
+
         <div class="imgacct">
             <img src="../image/Images_garstronomie/masse.jpg" alt="acct1">
         </div>
@@ -205,6 +219,23 @@
 </div>
 <div class="glob">
 
+    <div class="fixed-text">
+        <a href="Acti-Maldive.php" style="color: aliceblue;"><span>G</span>
+            <span>A</span>
+            <span>S</span>
+            <span>T</span>
+            <span>R</span>
+            <span>O</span>
+            <span>N</span>
+            <span>O</span>
+            <span>M</span>
+            <span>I</span>
+            <span>E</span>
+            
+        </a>
+        
+    </div>
+
     <div class="imgacct">
         <img src="../image/Images_garstronomie/ro2.jpg" alt="acct1">
     </div>
@@ -285,8 +316,25 @@
 </div>
 <div class="glob">
 
+    <div class="fixed-text">
+        <a href="Acti-Maldive.php" style="color: aliceblue;"><span>H</span>
+            <span>E</span>
+            <span>B</span>
+            <span>E</span>
+            <span>R</span>
+            <span>G</span>
+            <span>E</span>
+            <span>M</span>
+            <span>E</span>
+            <span>N</span>
+            <span>T</span>
+            
+        </a>
+        
+    </div>
+
     <div class="imgacct">
-        <img src="../image/lozi.jpg" alt="acct1">
+        <img src="../image/pannn.jpg" alt="acct1">
     </div>
     <div class="txt">
         <h2>" la Maison Paje Beach " </h2>
